@@ -1,7 +1,7 @@
 ---
 title: "Cali A. Wilson"
 about:
-  template: trestles
+  template: jolla
   image: profile.jpg
   links:
     - icon: twitter
@@ -15,5 +15,9 @@ about:
 I am a PhD candidate in the [Interdisciplinary Disease Ecology Across Scales (IDEAS) Program](https://ideas.ecology.uga.edu/) in the [Odum School of Ecology](https://www.ecology.uga.edu/) at the University of Georgia. My research focuses on understanding how humans feeding wildlife can influence the behavior of wildlife in ways that can alter the spread of infectious diseases.
 
 When I'm not analyzing data or observing birds, I enjoy paddle boarding, camping, and hiking with my dog Lambeau.
+```{=html}
+<a href="paddledog.png" download target="_blank">
+  <button type="button" class="btn btn-outline-secondary btn-sm">Click for photo of Lambeau on the paddle board!</button>
+</a>
+```
 
-![Lambeau loves paddle boarding!](paddledog.png)
