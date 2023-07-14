@@ -2,4 +2,34 @@
 title: "Projects"
 ---
 
-I will include information about my current and past projects here. Will add these soon.
+(this section is in progress!)
+
+My PhD dissertation focuses on addressing how behavioral responses to urbanization affect wildlife pathogen dynamics.
+
+I am addressing this question in multiple ways and using the American white ibis system in South Florida as a study system.
+
+Project 1: How does variation in urbanization and human-provided food influence white ibis behaviors relevant to transmission?
+
+I address this with 3 main questions:
+
+1.  How do white ibis activity budgets differ between urban and natural environments?
+2.  What factors influence variation in behavior across urban sites?
+3.  How does provisioning affect ibis flock density and contact?
+
+How do white ibis activity budgets differ between urban and natural environments?
+
+Data:
+
+Analysis:
+
+Results:
+
+What factors influence variation in behavior across urban sites?
+
+How does provisioning affect ibis flock density and contact?
+
+Project 2: Modeling the effects of food provisioning and personality variation in wildlife on infection dynamics
+
+Project 3: Examining drivers of aggression in an urban wading bird
+
+Project 4: Review and synthesis of behavioral heterogeneity and animal-pathogen dynamics in urban landscapes
